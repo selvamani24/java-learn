@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class BankDashBoard {
     public static void displayMenu() {
-        System.out.println("----MARIYAMMAN INDIAN BANK----");
+        System.out.println("----INDIAN BANK----");
         System.out.println();
         System.out.println(" BALANCE INQUIRY -----> 1");
         System.out.println(" DEPOSIT         -----> 2");
